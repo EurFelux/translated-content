@@ -6490,6 +6490,12 @@
       "fcard"
     ]
   },
+  "Web/CSS/CSS_cascade/Shorthand_properties": {
+    "modified": "2019-03-23T22:15:16.832Z",
+    "contributors": [
+      "rubenmarcus"
+    ]
+  },
   "Web/CSS/CSS_cascade/Specificity": {
     "modified": "2019-12-19T17:59:37.262Z",
     "contributors": [
@@ -6813,12 +6819,6 @@
       "teoli",
       "ethertank",
       "rodrigopadula"
-    ]
-  },
-  "Web/CSS/Shorthand_properties": {
-    "modified": "2019-03-23T22:15:16.832Z",
-    "contributors": [
-      "rubenmarcus"
     ]
   },
   "Web/CSS/Subsequent-sibling_combinator": {

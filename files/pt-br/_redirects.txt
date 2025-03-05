@@ -864,6 +864,7 @@
 /pt-BR/docs/Web/CSS/Seletor_de_atributos	/pt-BR/docs/Web/CSS/Attribute_selectors
 /pt-BR/docs/Web/CSS/Seletor_universal	/pt-BR/docs/Web/CSS/Universal_selectors
 /pt-BR/docs/Web/CSS/Seletores_CSS	/pt-BR/docs/Web/CSS/CSS_selectors
+/pt-BR/docs/Web/CSS/Shorthand_properties	/pt-BR/docs/Web/CSS/CSS_cascade/Shorthand_properties
 /pt-BR/docs/Web/CSS/Specificity	/pt-BR/docs/Web/CSS/CSS_cascade/Specificity
 /pt-BR/docs/Web/CSS/Syntax	/pt-BR/docs/Web/CSS/CSS_syntax/Syntax
 /pt-BR/docs/Web/CSS/Tools	/pt-BR/docs/conflicting/Web/CSS
